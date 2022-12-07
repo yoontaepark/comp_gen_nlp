@@ -9,7 +9,7 @@ Yeong Koh <yeong.koh@nyu.edu> <br>
 
 
 Description:
-- Final project for New York University's NLP project (DS-GA 1011, Spring 2023) mentored by Faculty member
+- Final project for New York University's NLP project (DS-GA 1011, Fall 2022) mentored by Faculty member
 - Due: Dec 14th, 2022
 
 <!-- Criteria [here](///) -->
