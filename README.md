@@ -19,10 +19,10 @@ Description:
 Project
 ├── LICENSE
 ├── README.md         
-├── data
-│   ├── raw: compositional generalization datasets (from huggingface, and other github repos) 
-│   ├── interim: intermediate data that has been preprocessed
-│   └── final: final data sets that are used for further analysis
+├── data: 9 different datasets from multiple sources 
+│   ├── SCAN(simple, length, add-turn-left), CFQ(mcd1), smcalflow: source from huggingface
+│   ├── COGS(test, lexcial, structural): from github repo (https://github.com/najoungkim/COGS)
+│   └── PCFG SET: from github repo (https://github.com/i-machine-think/am-i-compositional)
 │
 ├── notebooks: store your Jupyter Notebooks here.
 │   ├── yp2201: treat this workspace as your own.
@@ -32,7 +32,7 @@ Project
 │   ├── yk2678 
 │   └── shared: place anything you want to share with the group, or the final version of your notebook here.
 │
-├── src: store your source code (e.g. py, sh) here. This follows the same structure as /notebooks
+├── src: store your source code (e.g. py, sh) here. 
 │
 ├── reports: Generated analysis as HTML, PDF, LaTeX, etc
 │   ├── interim: any intermediate report that has been created
