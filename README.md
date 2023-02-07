@@ -1,4 +1,4 @@
-# comp_gen_nlp: Project for DSGA-1011 (NLP)
+# comp_gen_nlp: NLP project that aims to research compositional generalization capacity of language model
 
 ### Authors:
 Yoon Tae Park <yp2201@nyu.edu> <br>
