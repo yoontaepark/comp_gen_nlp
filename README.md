@@ -1,4 +1,4 @@
-# comp_gen_nlp: Investigation of the language model's ability to generalize compositionally.
+# [NLP/NLU] Investigation of the language model's ability to generalize compositionally
 
 ### Authors:
 Yoon Tae Park <yp2201@nyu.edu> <br>
