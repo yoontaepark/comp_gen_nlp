@@ -1,4 +1,4 @@
-# comp_gen_nlp: NLP project that aims to research compositional generalization capacity of language model
+# comp_gen_nlp: Investigation of the language model's ability to generalize compositionally.
 
 ### Authors:
 Yoon Tae Park <yp2201@nyu.edu> <br>
@@ -9,7 +9,7 @@ Yeong Koh <yeong.koh@nyu.edu> <br>
 
 
 Description:
-- Final project for New York University's NLP project (DS-GA 1011, Fall 2022) mentored by Najoung Kim
+- Final project for New York University's NLP project (DS-GA 1011, Fall 2022) mentored by Prof. Najoung Kim
 - Due: Dec 14th, 2022
 
 <!-- Criteria [here](///) -->
